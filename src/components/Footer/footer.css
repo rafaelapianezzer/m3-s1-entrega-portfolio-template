@@ -1,0 +1,24 @@
+.footerContainer {
+    width: 100%; 
+    max-width: 70rem;
+    margin: 2rem auto; 
+   display: flex;
+   flex-direction: row;
+   padding-top: 2rem;
+   align-items: center;
+   justify-content: space-between;
+   padding-left: 5rem;
+   line-height: 4rem;
+   border-bottom: 1px solid white;
+   border-top: 1px solid white;
+  
+}
+
+.footerContainer p {
+    padding-left: 8rem;
+}
+
+.footerContainer img {
+    padding-right: 1rem;
+}
+

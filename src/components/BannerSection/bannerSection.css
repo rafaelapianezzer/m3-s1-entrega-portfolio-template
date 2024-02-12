@@ -1,0 +1,30 @@
+.label {
+    text-transform: uppercase;
+}
+
+.paragraph {
+    line-height: 1.875rem;
+}
+
+
+
+
+.content {
+    width: 50%; 
+    max-width: 75rem;
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 9.625rem;
+    align-items: center;
+    
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    justify-content: space-around;
+    gap: 1.5rem;
+}

@@ -1,0 +1,23 @@
+header {
+    width: 50%; 
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    padding-top: 1.0625rem;
+    gap: 14.3125rem;
+    margin-top: 1.025rem;
+
+
+    color: var(--color-white);
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    
+    gap: 4rem;
+
+}
